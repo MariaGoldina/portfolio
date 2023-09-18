@@ -74,3 +74,9 @@ Postman, Swagger, Swagger Editor, Pytest (в т.ч. с применением ф
 Создан чек-лист, найдено 5 багов, в. т.ч. с приоритетом Blocker, выявлены ошибки в коде.
 
 *Ссылка на тестовую документацию*: <a href="https://docs.google.com/spreadsheets/d/1B60lLth2YNM6KheCWcP9hkZYlAhu3UEqGnPyGDvWPPs/edit?usp=sharing">документы</a> 
+
+# 6) Разработка Telegram бота для конвертации валют, @MyCurrenciesBot 
+
+Написала код на Python для телеграм-бота для конвертации валют.
+
+*Ссылка на код*: <a href="https://github.com/MariaGoldina/SF_Tasks/tree/f786595ad308763ba65f6d2bbaf586549ff20ea6/MyCurrenciesBot">MyCurrenciesBot</a>
